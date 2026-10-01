@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@plugin "@tailwindcss/forms" {
+    strategy: "class"; /* only generate classes */
+}
+
+@source '../**/*.blade.php';
+@source '../**/*.js';

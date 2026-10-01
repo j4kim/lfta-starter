@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "@shufo/prettier-plugin-blade"
+    ],
+    "tabWidth": 4,
+    "sortTailwindcssClasses": true,
+    "wrapAttributes": "force-expand-multiline"
+}
