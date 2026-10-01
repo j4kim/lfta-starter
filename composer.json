@@ -2,7 +2,6 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "j4kim/lfta",
     "type": "project",
-    "description": "Website for Atelier Honorin",
     "keywords": [
         "laravel",
         "framework"
@@ -75,7 +74,7 @@
             "npm run build",
             "git init",
             "git add .",
-            "git commit -m \"create project from j4kim/laravel-vue-starter\""
+            "git commit -m \"create project from j4kim/lfta-starter\""
         ],
         "pre-package-uninstall": [
             "Illuminate\\Foundation\\ComposerScripts::prePackageUninstall"
